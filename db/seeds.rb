@@ -24,6 +24,8 @@ Picture.create!(
   :url    =>  "http://bitmakerlabs.s3.amazonaws.com/photogur/girl.jpg"
 )
 
+  ## Why is this not showing? 
+
 Picture.create!(
   :title  =>  "Suicide Squad",
   :artist =>  "DC Extended Universe",
